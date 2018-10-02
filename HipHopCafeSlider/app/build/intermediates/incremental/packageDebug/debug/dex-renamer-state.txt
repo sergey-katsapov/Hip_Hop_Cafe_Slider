@@ -1,0 +1,4 @@
+#Wed Aug 08 23:55:21 MSK 2018
+base.0=C\:\\Users\\sergey_katsapov\\Desktop\\HipHopCafeSlider\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">HHC</string>
+    <string name="title_activity_welcome">Hip-Hop cafe</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">START</string>
+
+    <string name="slide_1_title">Urban style</string>
+    <string name="slide_1_desc">Our cafe realizes the real street style of the hip-hop industry</string>
+
+    <string name="slide_2_title">Hip-Hop ideas</string>
+    <string name="slide_2_desc">We have real ideas of hip-hop style of behavior</string>
+
+    <string name="slide_3_title">History of culture</string>
+    <string name="slide_3_desc">We honor the history of our culture and value it</string>
+
+    <string name="slide_4_title">Unique atmosphere</string>
+    <string name="slide_4_desc">In our place you will feel the same street atmosphere of that time</string>
+
+    <string name="desc">Hip-Hop style</string>
+    <string name="restart">Play Again</string>
+</resources>

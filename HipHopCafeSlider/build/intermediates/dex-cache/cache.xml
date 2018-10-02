@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\sergey_katsapov\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.2.1.aar\2cc1ad3516e768a7a5758c49b0cf4c61\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="C:\Users\sergey_katsapov\Desktop\IntroSlider\app\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sergey_katsapov\.gradle\caches\transforms-1\files-1.1\support-v4-23.2.1.aar\c3e245367c8cece27a050a1ec37c65e4\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\Users\sergey_katsapov\Desktop\IntroSlider\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sergey_katsapov\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.2.1.aar\7197a57c62ae6645682e7833acdbb2c6\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="C:\Users\sergey_katsapov\Desktop\IntroSlider\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sergey_katsapov\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="C:\Users\sergey_katsapov\Desktop\IntroSlider\app\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sergey_katsapov\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.2.1.aar\7a584be0deb79ad28e067e04d2d854a8\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="C:\Users\sergey_katsapov\Desktop\IntroSlider\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sergey_katsapov\.gradle\caches\transforms-1\files-1.1\support-v4-23.2.1.aar\c3e245367c8cece27a050a1ec37c65e4\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\Users\sergey_katsapov\Desktop\IntroSlider\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sergey_katsapov\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.2.1.aar\699f6a3792cc69c301fe5700ffd9fe0d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="C:\Users\sergey_katsapov\Desktop\IntroSlider\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+
+</items>
